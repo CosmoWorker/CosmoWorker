@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&random=false&width=500&lines=%E2%96%B8+learning+->researching+->building+->shipping;" alt="tagline" />
 
 ## Hi there 👋
-Computer systems are interesting. 
+I like computer systems. 
 ### 📊 GitHub Stats  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmoworker&label=Profile%20views&color=0e75b6&style=flat" alt="VT" /> </p>
 
